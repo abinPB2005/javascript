@@ -1,4 +1,4 @@
-// if else statement
+
 
 let userRole = "admin";
 let accessLevel;
@@ -11,7 +11,7 @@ if (userRole === "admin") {
 }
 console.log("Access Level:", accessLevel);
 
-// nested if statement
+
 
 let isLoggedIn = true;
 let userMessage ;
@@ -27,7 +27,7 @@ if (isLoggedIn){
 }
 console.log("User Message:", userMessage);
 
-// switch statement
+
 
 let userType = "subscriber";
 let userCategory;
@@ -49,7 +49,7 @@ switch (userType){
 console.log("User Category:", userCategory);
 
 
-// ternary operator
+
 
 let isAuthenticated = true;
 
